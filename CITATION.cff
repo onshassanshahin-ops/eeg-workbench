@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EEG Workbench: EEG analysis that runs in the browser"
+type: software
+authors:
+  - name: "EEG Workbench contributors"
+version: 0.1.0
+license: Apache-2.0
+keywords:
+  - EEG
+  - neuroscience
+  - signal processing
+  - MNE-Python
+  - WebAssembly
